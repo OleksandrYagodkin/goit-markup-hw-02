@@ -3,3 +3,17 @@ body{
     background-color: #FFFFFF;
     color: #434455
 }
+.section-title-accent{
+    color: #2e2f42;
+}
+.text-features,
+.text-team,
+.text-portfolio{
+    color: var(--slate);
+}
+.text-footer{
+    color: var(--cloud);
+}
+.nav-list{
+    
+}
