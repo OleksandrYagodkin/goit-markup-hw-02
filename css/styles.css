@@ -19,7 +19,8 @@ body{
 .nav-list{
     font-weight: 500;
 }
-.logo-header{
+.logo-header,
+.logo-footer{
     font-family: "Raleway", sans-serif;
     font-weight: 700;
     font-size: 18px;
@@ -71,7 +72,8 @@ body{
     cursor: pointer;
 }
 .features-subtitle,
-.team-subtitle{
+.team-subtitle,
+.portfolio-subtitle{
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -81,7 +83,8 @@ body{
 .team-section{
     background-color: #F4F4FD;
 }
-.team-title{
+.team-title,
+.Portfolio-title{
     font-size: 36px;
     line-height: 1.11;
     text-align: center;
@@ -91,5 +94,15 @@ body{
 }
 .team-item{
     background-color: #FFFFFF;
-
+}
+.footer{
+    background-color: #2e2f42;
+}
+.studio-footer{
+color: #f4f4fd;
+}
+.text-footer{
+    line-height: 1.5;
+    color: #F4F4FD;
+    letter-spacing: 0.02em;
 }
