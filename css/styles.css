@@ -35,8 +35,8 @@ body{
     color: #2e2f42;
 }
 
-.telefon:hover,
-.telefon:focus{
+.contacts:hover,
+.contacts:focus{
     color: #404bbf;
 }
 
@@ -45,15 +45,12 @@ body{
     color: #404bbf;
 }
 
-.mail:hover,
-.mail:focus{
-    color: #404bbf;
-    }
+
 .footer-contacts{
     font-style: normal;
 }
-.mail,
-.telefon{
+
+.contacts{
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: var(--navy-blue);
